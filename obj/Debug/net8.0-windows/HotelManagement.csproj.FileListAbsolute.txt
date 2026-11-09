@@ -232,3 +232,15 @@ C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\Resources\x.png
 C:\Users\Lenovo\TH_LTTQ\Project\obj\Debug\net8.0-windows\HotelManagement.Properties.Resources.resources
 C:\Users\Lenovo\TH_LTTQ\Project\obj\Debug\net8.0-windows\HotelManagement.csproj.GenerateResource.cache
 C:\Users\Lenovo\TH_LTTQ\Project\obj\Debug\net8.0-windows\HotelManagement.sourcelink.json
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\iTextSharp.LGPLv2.Core.dll
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.pdb
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.pdb
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Lenovo\TH_LTTQ\Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.pdb
